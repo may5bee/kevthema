@@ -49,7 +49,7 @@ const About = ({ data, location }: PageProps<Data>) => {
           </div>
           <div className="">
 
-My name is Kevin and I live in NYC.
+My name is Kev and I live in NYC.
 
 <br/><br/>
 <p className=" ">The broad idea behind my work is that <b>user success is fractal</b>. For software creators, "making users successful and getting paid for it" is a process that starts by looking at what our users want in their LIVES and how they're trying to GET it. 

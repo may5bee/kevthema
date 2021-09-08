@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Kevin Ma`,
+    title: `Kev Ma`,
     author: {
-      name: `Kevin Ma`,
+      name: `Kev Ma`,
       summary: `I am`,
     },
-    description: `Kevin Ma is a designer in Brooklyn`,
+    description: `Kev Ma is a designer in Brooklyn`,
     siteUrl: `https://netlify.com/`,
     social: {
       twitter: `yubinma0`,

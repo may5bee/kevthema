@@ -1,9 +1,9 @@
 {
-  "name": "kevins-sandbox",
+  "name": "kev-sandbox",
   "private": true,
   "description": "What do you do in sandboxes??",
   "version": "1.0.0",
-  "author": "Kevin Ma <kevthema@gmail.com>",
+  "author": "Kev Ma <kevthema@gmail.com>",
   "bugs": {
     "url": "https://github.com/mayybee"
   },
