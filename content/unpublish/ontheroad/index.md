@@ -6,17 +6,18 @@ date: "2018-03-23 09:01:00 -0500"
 ---
 
 NOTE:<br>
-These were a bunch of journals that I wrote on a hitchiking trip in early 2017. I went back to edit them later on change the tense and make the form more palatable to an audience. I tried, really.<br>
+journal after hitching trip.
+
 ===
 
 <b>02.02</b><br>
-i had split up with my girlfriend and was crashing at my friend Kelvin’s place, working on a website for the university and spending the rest of my time up in the Mountain View Public Library. 
+I had split up with my girlfriend and was sleeping on Kelvin's sofa, working on a website for the University and spending the rest of my time up in the library.
 
 So Kelvin has a dog named Luna and after he went to work I’d walk her and then come back and cook sausages and eggs. 
 
-i’d dreamed of seeing the country for a while, always vaguely planning and never taking off. now all the necessary conditions had been met, but I was dawdling, being slow, hanging around old friends, reading books and never biting the bullet.
+I wanted to see the country, to travel. All the conditions had been met, but I was dawdling, being slow, hanging around old friends, reading books, feeling listless, and never biting the bullet.
 
-The Skanerman was my friend from Cornell, he lived in Austin and he said that I should come visit him. So I packed up one day and had a meal with Kelvin and told him excitedly that I was ready to take off, and then I took a bus to around a hundred meters before the entrance to Highway 1, where I stuck my thumb out, and stood feeling foolish for 10 minutes.
+Skaner was a good friend from Ithaca. He lived in Austin and he said that I should come visit him. So I packed up one day and had Thai food with Kelvin and told him that I was ready to take off. Then I took a bus to around a hundred meters before the entrance to Highway 1, where I stuck my thumb out, and stood feeling foolish for 10 minutes.
 
 My first ride was with an elderly Navajo woman and her friend. She was going to church and it was at a casino. We talked for a while and as the trip became long, we got quiet and I fell asleep for a bit. She dropped me off in San Bernardino.
  

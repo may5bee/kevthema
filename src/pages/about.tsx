@@ -68,11 +68,9 @@ I've since discovered that SaaS businesses are leaving a disgusting amount of mo
 Routinely neglected areas include: every single page on your marketing site, your SEO, your onboarding, your onboarding that happens after your initial onboarding, your emails.
 </p>
 <p className=" ">
-Feel free to email me or DM on LinkedIn:<br/><br/>
+Feel free to DM:<br/><br/>
 <a className='brandcolor' href='mailto:kev@kevthema.com'>
   <span className='brandbutton'>kev@kevthema.com</span></a>
-<a className='brandcoloralt ml-3' href='https://linkedin.com/in/kevthema'><span className='brandbuttonalt'>LinkedIn</span></a>
-
 </p>
 
 
